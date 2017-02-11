@@ -6,4 +6,4 @@ This is a soeple readme file
 
 Test
 
-This is bound to cause trouble!
+Just something going on
